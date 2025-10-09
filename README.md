@@ -23,6 +23,7 @@
       Genetic Embedding (64)
              │
              ▼
+        
  ┌────────────────────────────────┐
  │   Concatenate MRI + Genetic    │
  │   Embeddings → Multimodal Vec  │
@@ -32,7 +33,10 @@
              │
              ▼
      Alzheimer’s Classification
-  (AD / MCI / Normal Control)
+     (AD / MCI / Normal Control)
 
 
-  
+
+
+
+     
