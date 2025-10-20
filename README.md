@@ -1,4 +1,4 @@
-As a Machine Learning Research Intern at Design Innovation Centre (DIC) - Hub GTU, I have done a research project titled: 'Multimodal Alzheimer’s disease Classification Using MRI and Genetic Data' under Dr.Neelesh Sharma.
+As a Machine Learning Research Intern at Design Innovation Centre (DIC) - Hub GTU, I have done a research project titled: 'Multimodal Alzheimer’s disease Classification Using MRI and Genetic Data' under the guidance of Dr.Neelesh Sharma.
 
 Project Involved:
 • Built a multimodal Alzheimer’s disease classification pipeline using ADNI T1-weighted MRI and genetic SNP
