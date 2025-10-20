@@ -2,11 +2,10 @@ As a Machine Learning Research Intern at Design Innovation Centre (DIC) - Hub GT
 
 Project Involved:
 
-• Built a multimodal Alzheimer’s disease classification pipeline using ADNI T1-weighted MRI and genetic SNP
-data for early diagnostic prediction.
+• Built a multimodal Alzheimer’s disease classification pipeline using ADNI-1 T1-weighted MRI and genetic SNPs
+data for the 200 patients having both types of data modalities.
 
-• Preprocessed MRI data using MONAI, genetic data using PLINK, PCA, and a noisy autoencoder for embedding
-extraction.
+• Preprocessed MRI data using MONAI and NiBabel, genetic data using PLINK (MAF filtering, missing rate filtering, and LD pruning), PCA, and a noisy autoencoder for embedding extraction from genetic data.
 
-• Fine-tuned MedicalNet 3D-ResNet50 for MRI feature learning and performed multimodal fusion with Random
+• Fine-tuned MedicalNet 3D-ResNet50 for MRI feature learning and extracting embeddings, and performed multimodal fusion with Random
 Forest, achieving effective integration of imaging and genetic modalities.
