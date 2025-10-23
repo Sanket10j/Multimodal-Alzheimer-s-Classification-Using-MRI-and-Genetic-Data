@@ -11,6 +11,7 @@ data for the 200 patients having both types of data modalities.
 Forest, achieving effective integration of imaging and genetic modalities.
 
 References:
+
 • Venugopalan, J., Tong, L., Hassanzadeh, H.R. et al. Multimodal deep learning models for early detection of Alzheimer’s disease stage. Sci Rep 11, 3254 (2021). https://doi.org/10.1038/s41598-020-74399-w
 • Liu, S. et al. Multimodal neuroimaging feature learning for multiclass diagnosis of Alzheimer’s disease. Biomed. Eng. IEEE Trans. 62, 1132–1140 (2015).
 • Zhang, D., Wang, Y., Zhou, L., Yuan, H. & Shen, D. Multimodal classification of Alzheimer’s disease and mild cognitive impairment. NeuroImage 55, 856–867 (2011).
