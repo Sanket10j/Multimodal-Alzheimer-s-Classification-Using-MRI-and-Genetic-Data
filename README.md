@@ -10,6 +10,8 @@ data for the 200 patients having both types of data modalities.
 • Fine-tuned MedicalNet 3D-ResNet50 for MRI feature learning and extracting embeddings, and performed multimodal fusion with Random
 Forest, achieving effective integration of imaging and genetic modalities.
 
+
+
 References:
 
 • Venugopalan, J., Tong, L., Hassanzadeh, H.R. et al. Multimodal deep learning models for early detection of Alzheimer’s disease stage. Sci Rep 11, 3254 (2021). https://doi.org/10.1038/s41598-020-74399-w
