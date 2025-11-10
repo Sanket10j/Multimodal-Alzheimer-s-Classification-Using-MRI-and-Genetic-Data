@@ -7,7 +7,7 @@ data for the 584 patients having both types of data modalities.
 
 • Preprocessed MRI data using MONAI and NiBabel, genetic data using PLINK (MAF filtering, missing rate filtering, and LD pruning), PCA, and a noisy autoencoder for embedding extraction from genetic data.
 
-• Fine-tuned MedicalNet 3D-ResNet50 for MRI feature learning and extracting embeddings, and performed multimodal fusion with Random
+• Fine-tuned MedicalNet 3D-ResNet50 for MRI feature learning and extracting embeddings, and performed multimodal Intermediate-feature-level fusion with Random
 Forest, achieving effective integration of imaging and genetic modalities.
 
 
